@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ymfsing</title>
+    <link>https://ymfsing.com/post/</link>
+    <description>Recent content in Posts on ymfsing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Jun 2021 09:49:02 +0800</lastBuildDate><atom:link href="https://ymfsing.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo even search</title>
+      <link>https://ymfsing.com/post/hugo-even-search/</link>
+      <pubDate>Thu, 17 Jun 2021 09:49:02 +0800</pubDate>
+      
+      <guid>https://ymfsing.com/post/hugo-even-search/</guid>
+      <description>&lt;p&gt;
+我博客使用的主题是 &lt;a href=&#34;https://github.com/olOwOlo/hugo-theme-even&#34;&gt;hugo theme even&lt;/a&gt; ,不过默认不支持搜索，在 &lt;a href=&#34;https://github.com/olOwOlo/hugo-theme-even/issues/289&#34;&gt;issues 289&lt;/a&gt; 中找到解决方法，记录一下。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://ymfsing.com/post/markdown/</link>
+      <pubDate>Sun, 12 Apr 2020 10:30:56 +0800</pubDate>
+      
+      <guid>https://ymfsing.com/post/markdown/</guid>
+      <description>&lt;p&gt;Markdown 是一种轻量级标记语言，简单实用，值得一学。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
